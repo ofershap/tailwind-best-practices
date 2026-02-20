@@ -11,6 +11,15 @@
   "homepage": "https://github.com/ofershap/tailwind-best-practices",
   "repository": "https://github.com/ofershap/tailwind-best-practices",
   "license": "MIT",
-  "keywords": ["tailwind", "tailwindcss", "css", "best-practices", "v4", "cursor-plugin", "claude-code", "ai-agent"],
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "css",
+    "best-practices",
+    "v4",
+    "cursor-plugin",
+    "claude-code",
+    "ai-agent"
+  ],
   "logo": "assets/logo.svg"
 }
