@@ -51,6 +51,10 @@ AI agents consistently produce these outdated Tailwind patterns:
 - [sveltekit-best-practices](https://github.com/ofershap/sveltekit-best-practices) - Svelte 5 runes
   and SvelteKit patterns
 
+---
+
+If this helped your workflow, a star helps others find it.
+
 ## Author
 
 [![Made by ofershap](https://gitshow.dev/api/card/ofershap)](https://gitshow.dev/ofershap)
