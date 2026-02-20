@@ -1,7 +1,7 @@
 # Tailwind CSS Best Practices
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Skills](https://img.shields.io/badge/skills.sh-tailwind--best--practices-blue)](https://skills.sh/ofershap/tailwind-best-practices/tailwind-best-practices)
+[![Skills](https://img.shields.io/badge/skills.sh-tailwind--best--practices-blue)](https://skills.sh/ofershap/tailwind-best-practices)
 
 Stop your AI agent from generating Tailwind CSS v3 code. 12 rules for Tailwind v4 syntax, CSS-first
 config with @theme, modern utility patterns, and the anti-patterns every agent produces.
@@ -15,7 +15,7 @@ config with @theme, modern utility patterns, and the anti-patterns every agent p
 ### Cursor / Claude Code / Windsurf
 
 ```bash
-npx skills add ofershap/tailwind-best-practices/tailwind-best-practices
+npx skills add ofershap/tailwind-best-practices
 ```
 
 Or copy `skills/` into your `.cursor/skills/` or `.claude/skills/` directory.
