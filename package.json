@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-best-practices",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Stop your AI agent from generating Tailwind CSS v3 code. 20+ rules for v4 syntax, CSS-first config, modern utility patterns, and common anti-patterns agents produce.",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "keywords": ["tailwind", "tailwindcss", "css", "best-practices", "v4", "cursor-plugin", "claude-code", "ai-agent"],
+  "author": {
+    "name": "Ofer Shapira",
+    "url": "https://github.com/ofershap"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ofershap/tailwind-best-practices.git"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.0"
+  }
+}

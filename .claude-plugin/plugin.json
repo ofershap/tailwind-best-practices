@@ -1,0 +1,13 @@
+{
+  "name": "tailwind-best-practices",
+  "displayName": "Tailwind CSS Best Practices",
+  "version": "0.1.0",
+  "description": "Stop your AI agent from generating Tailwind CSS v3 code. 20+ rules for v4 syntax, CSS-first config, modern utility patterns, and common anti-patterns agents produce.",
+  "author": {
+    "name": "Ofer Shapira",
+    "url": "https://github.com/ofershap"
+  },
+  "homepage": "https://github.com/ofershap/tailwind-best-practices",
+  "repository": "https://github.com/ofershap/tailwind-best-practices",
+  "license": "MIT"
+}

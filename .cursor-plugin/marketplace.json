@@ -1,0 +1,18 @@
+{
+  "name": "tailwind-best-practices",
+  "owner": {
+    "name": "Ofer Shapira",
+    "email": "ofer@shapira.dev"
+  },
+  "metadata": {
+    "description": "Stop your AI agent from generating Tailwind CSS v3 code. 20+ rules for v4 syntax, CSS-first config, modern utility patterns, and common anti-patterns agents produce.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "tailwind-best-practices",
+      "source": ".",
+      "description": "Stop your AI agent from generating Tailwind CSS v3 code. 20+ rules for v4 syntax, CSS-first config, modern utility patterns, and common anti-patterns agents produce."
+    }
+  ]
+}
